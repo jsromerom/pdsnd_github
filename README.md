@@ -16,4 +16,3 @@ washington.csv
 
 ### Credits
 Las diferentes sesiones de udacity junto con conocimiento previo.
-
