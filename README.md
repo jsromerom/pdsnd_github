@@ -8,6 +8,7 @@ Sistema de bicicletas "Bikeshare system"
 
 ### Description
 Este proyecto trae información sobre el sistema de bicicletas en las ciudades de Chicago, New York y Washington D.C. donde se ofrece la posibilidad de contas con estadísticas por demanda.
+Las ciudades por consultar son de Estados Unidos.
 
 ### Files used
 chicago.csv
