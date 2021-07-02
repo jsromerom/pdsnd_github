@@ -8,6 +8,11 @@ Created on Fri Jul  2 01:01:04 2021
 import time
 import pandas as pd
 import numpy as np
+from datetime import  datetime
+
+ahora=datetime.now()
+print("Estas realizando esta consulta en el día {} del presente mes.".format(ahora.day))
+print("Estas realizando esta consulta en la siguiente fecha y hora: {}.".format(ahora))
 
 name = input("¿Cuál es tu nombre?: ")
 print('''
