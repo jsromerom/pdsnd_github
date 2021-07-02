@@ -8,7 +8,7 @@ Created on Fri Jul  2 01:01:04 2021
 import time
 import pandas as pd
 import numpy as np
-#Se solicita nombre para brindar una experiencia más personalizada.
+##Se solicita nombre para brindar una experiencia más personalizada..
 name = input("¿Cuál es tu nombre?: ")
 print('''
 ¡Hola {}!
